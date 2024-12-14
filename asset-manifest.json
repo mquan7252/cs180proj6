@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cs180proj6/static/css/main.f18b9d41.css",
-    "main.js": "/cs180proj6/static/js/main.d29d63ee.js",
+    "main.js": "/cs180proj6/static/js/main.a2421c9a.js",
     "static/js/453.b03e3c98.chunk.js": "/cs180proj6/static/js/453.b03e3c98.chunk.js",
     "static/media/stone.gif": "/cs180proj6/static/media/stone.2cf2c3a8e3a6980bac5e.gif",
     "static/media/light.gif": "/cs180proj6/static/media/light.4e17e3efa6f1f7d7674d.gif",
@@ -9,6 +9,7 @@
     "static/media/stone_small.png": "/cs180proj6/static/media/stone_small.61fa3380161e644bdb3f.png",
     "static/media/stone_large.png": "/cs180proj6/static/media/stone_large.4de275b9ec5b2a111a72.png",
     "static/media/blend_naive.png": "/cs180proj6/static/media/blend_naive.be72de9a3edbd27f5763.png",
+    "static/media/mountain.png": "/cs180proj6/static/media/mountain.5eed0d8357f09e5652ed.png",
     "static/media/penguin.png": "/cs180proj6/static/media/penguin.10511c779d5b08cf765a.png",
     "static/media/light_1.4.png": "/cs180proj6/static/media/light_1.4.54c4e0a6a7b337c56e32.png",
     "static/media/light_1.png": "/cs180proj6/static/media/light_1.afd8409ce65a40476046.png",
@@ -25,7 +26,6 @@
     "static/media/val_loss_full.png": "/cs180proj6/static/media/val_loss_full.8f9749d56546c2c48b25.png",
     "static/media/train_loss.png": "/cs180proj6/static/media/train_loss.ab8b8bdea6098b7b7dfd.png",
     "static/media/train_loss_full.png": "/cs180proj6/static/media/train_loss_full.9b5922f90debeaa8507e.png",
-    "static/media/mountain.png": "/cs180proj6/static/media/mountain.c6dca99a4a3bc3a803bc.png",
     "static/media/toy_grad.png": "/cs180proj6/static/media/toy_grad.c6dca99a4a3bc3a803bc.png",
     "static/media/toy.png": "/cs180proj6/static/media/toy.ede676696c7f00d4da40.png",
     "static/media/face2_incorrect_full.png": "/cs180proj6/static/media/face2_incorrect_full.c89c1909b01db94dfda3.png",
@@ -47,11 +47,11 @@
     "static/media/logo.svg": "/cs180proj6/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/cs180proj6/index.html",
     "main.f18b9d41.css.map": "/cs180proj6/static/css/main.f18b9d41.css.map",
-    "main.d29d63ee.js.map": "/cs180proj6/static/js/main.d29d63ee.js.map",
+    "main.a2421c9a.js.map": "/cs180proj6/static/js/main.a2421c9a.js.map",
     "453.b03e3c98.chunk.js.map": "/cs180proj6/static/js/453.b03e3c98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f18b9d41.css",
-    "static/js/main.d29d63ee.js"
+    "static/js/main.a2421c9a.js"
   ]
 }
